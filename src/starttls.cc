@@ -148,7 +148,7 @@ namespace {
 
     DECLARE_FEATURE(StartTls, S2S);
     DECLARE_FEATURE(StartTls, C2S);
-    DECLARE_FEATURE(StartTls, COMP);
+    //DECLARE_FEATURE(StartTls, COMP);
 }
 
 namespace Metre {
